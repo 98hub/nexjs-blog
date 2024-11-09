@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Welcome to <code>nextjs-blog</code>
+          Welcome to <strong>nextjs-blog</strong>
         </p>
 
         <div className={styles.grid}>
