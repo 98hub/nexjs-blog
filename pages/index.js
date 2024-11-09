@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing <code>pages/index.js</code>
+          Welcome to <code>nextjs-blog</code>
         </p>
 
         <div className={styles.grid}>
