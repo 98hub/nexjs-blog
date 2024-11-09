@@ -14,8 +14,8 @@ export default function Home() {
           Learn <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
-        <h1 className={styles.description}>
-          Welcome to nextjs-blog!
+        <h1 className={styles.title}>
+          Welcome to blog.
         </h1>
 
         <div className={styles.grid}>
